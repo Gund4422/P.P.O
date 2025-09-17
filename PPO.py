@@ -1,5 +1,5 @@
 # ------------------------------
-# Docksterling 3.0 – Luraph Mode
+# P.P.O v3, can sometimes obfuscate something to 19.1 MB
 # ------------------------------
 import random, re, argparse, sys
 from pathlib import Path
@@ -169,3 +169,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
